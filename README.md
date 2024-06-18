@@ -1,2 +1,2 @@
 # About NexaMerchant
-> NexaMerchant is a free ecommerce platform, base use Laravel framework.
+> NexaMerchant is a free ecommerce platform, base on Laravel framework.
