@@ -2,6 +2,16 @@
 
 ### About NexaMerchant
 > NexaMerchant is a free ecommerce platform, base on Laravel framework.
+>
+### How to Install (Docker)
+```
+docker pull nicesteven/nexamerchant:latest
+```
+
+### How to Install (Git)
+```
+git clone https://github.com/xxl4/NexaMerchant.git
+```
 
 <!--
 
