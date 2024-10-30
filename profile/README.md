@@ -16,28 +16,28 @@ docker-compose exec nexamerchant-php-apache php artisan migrate
 docker-compose exec nexamerchant-php-apache php artisan db:seed
 ```
 
-## Plugin Install
+## Apps Install
 
 ```bash
-docker-compose exec nexamerchant-php-apache php artisan plugin:install shopify
+docker-compose exec nexamerchant-php-apache php artisan apps:install shopify
 ```
 
-## Plugin Uninstall
+## Apps Uninstall
 
 ```bash
-docker-compose exec nexamerchant-php-apache php artisan plugin:uninstall shopify
+docker-compose exec nexamerchant-php-apache php artisan apps:uninstall shopify
 ```
 
-## Plugin List
+## Apps List
 
 ```bash
-docker-compose exec nexamerchant-php-apache php artisan plugin:list
+docker-compose exec nexamerchant-php-apache php artisan apps:list
 ```
 
-## Plugin Update
+## Apps Update
 
 ```bash
-docker-compose exec nexamerchant-php-apache php artisan plugin:update shopify
+docker-compose exec nexamerchant-php-apache php artisan apps:update shopify
 ```
 
 ### How to Install (Docker)
